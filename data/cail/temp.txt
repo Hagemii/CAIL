@@ -1,0 +1,4 @@
+0	accomplice	person	was	assisted	by	person
+1	posses	person	has	possession	of	object
+2	traffic	person	was	involved	in	traffic	event
+3	theft	person	was	involved	in	theft	event
